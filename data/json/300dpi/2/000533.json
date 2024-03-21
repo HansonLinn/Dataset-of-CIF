@@ -14,6 +14,21 @@
                     580,
                     96,
                     581
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            102,
+                            330,
+                            181,
+                            330,
+                            177,
+                            580,
+                            96,
+                            581
+                        ]
+                    }
                 ]
             },
             {
@@ -28,6 +43,21 @@
                     574,
                     177,
                     580
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            181,
+                            330,
+                            2415,
+                            325,
+                            2418,
+                            574,
+                            177,
+                            580
+                        ]
+                    }
                 ]
             },
             {
@@ -43,7 +73,117 @@
                     96,
                     642
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            109.0,
+                            593.0,
+                            311.0,
+                            593.0,
+                            311.0,
+                            628.0,
+                            109.0,
+                            628.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "银行分行代码:"
+                    },
+                    {
+                        "boundingbox": [
+                            312,
+                            581,
+                            672,
+                            581,
+                            672,
+                            636,
+                            581,
+                            672
+                        ],
+                        "type": "alnum"
+                    },
+                    {
+                        "boundingbox": [
+                            682.0,
+                            590.0,
+                            821.0,
+                            590.0,
+                            821.0,
+                            630.0,
+                            682.0,
+                            630.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "网点代码:"
+                    },
+                    {
+                        "boundingbox": [
+                            828,
+                            581,
+                            1212,
+                            581,
+                            1212,
+                            636,
+                            581,
+                            1212
+                        ],
+                        "type": "alnum"
+                    },
+                    {
+                        "boundingbox": [
+                            1221.0,
+                            591.0,
+                            1422.0,
+                            591.0,
+                            1422.0,
+                            626.0,
+                            1221.0,
+                            626.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "销售人员代码："
+                    },
+                    {
+                        "boundingbox": [
+                            1427,
+                            581,
+                            1751,
+                            581,
+                            1751,
+                            636,
+                            581,
+                            1751
+                        ],
+                        "type": "alnum"
+                    },
+                    {
+                        "boundingbox": [
+                            1771.0,
+                            590.0,
+                            1972.0,
+                            590.0,
+                            1972.0,
+                            625.0,
+                            1771.0,
+                            625.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "理财经理代码:"
+                    },
+                    {
+                        "boundingbox": [
+                            2003.0,
+                            585.0,
+                            2155.0,
+                            589.0,
+                            2154.0,
+                            636.0,
+                            2002.0,
+                            632.0
+                        ],
+                        "type": "alnum",
+                        "value": "1234"
+                    }
+                ]
             },
             {
                 "row": 3,
@@ -58,7 +198,115 @@
                     96,
                     730
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            96,
+                            642,
+                            315,
+                            642,
+                            315,
+                            724,
+                            642,
+                            315
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            328.0,
+                            654.0,
+                            588.0,
+                            660.0,
+                            587.0,
+                            721.0,
+                            327.0,
+                            714.0
+                        ],
+                        "type": "HWChinese",
+                        "value": "交通银行"
+                    },
+                    {
+                        "boundingbox": [
+                            680,
+                            642,
+                            838,
+                            642,
+                            838,
+                            724,
+                            642,
+                            838
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            852.0,
+                            651.0,
+                            1112.0,
+                            656.0,
+                            1111.0,
+                            722.0,
+                            851.0,
+                            717.0
+                        ],
+                        "type": "HWChinese",
+                        "value": "福州支行"
+                    },
+                    {
+                        "boundingbox": [
+                            1227,
+                            642,
+                            1385,
+                            642,
+                            1385,
+                            724,
+                            642,
+                            1385
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            1375.0,
+                            632.0,
+                            1502.0,
+                            632.0,
+                            1514.0,
+                            720.0,
+                            1375.0,
+                            733.0
+                        ],
+                        "type": "HWChinese",
+                        "value": "李四"
+                    },
+                    {
+                        "boundingbox": [
+                            1774,
+                            642,
+                            1932,
+                            642,
+                            1932,
+                            724,
+                            642,
+                            1932
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            1932,
+                            642,
+                            2418,
+                            642,
+                            2418,
+                            724,
+                            642,
+                            2418
+                        ],
+                        "type": "HWChinese"
+                    }
+                ]
             },
             {
                 "row": 4,
@@ -73,7 +321,103 @@
                     175,
                     823
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            175,
+                            730,
+                            283,
+                            730,
+                            283,
+                            816,
+                            730,
+                            283
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            292.0,
+                            737.0,
+                            478.0,
+                            743.0,
+                            476.0,
+                            824.0,
+                            290.0,
+                            819.0
+                        ],
+                        "type": "HWChinese",
+                        "value": "杨树"
+                    },
+                    {
+                        "boundingbox": [
+                            1171.0,
+                            751.0,
+                            1275.0,
+                            751.0,
+                            1275.0,
+                            794.0,
+                            1171.0,
+                            794.0
+                        ],
+                        "type": "alnum",
+                        "value": "2001"
+                    },
+                    {
+                        "boundingbox": [
+                            1316,
+                            730,
+                            1369,
+                            730,
+                            1369,
+                            816,
+                            730,
+                            1369
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            1393.0,
+                            751.0,
+                            1425.0,
+                            751.0,
+                            1425.0,
+                            796.0,
+                            1393.0,
+                            796.0
+                        ],
+                        "type": "alnum",
+                        "value": "3"
+                    },
+                    {
+                        "boundingbox": [
+                            1500,
+                            730,
+                            1553,
+                            730,
+                            1553,
+                            816,
+                            730,
+                            1553
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            1567.0,
+                            745.0,
+                            1633.0,
+                            745.0,
+                            1633.0,
+                            801.0,
+                            1567.0,
+                            801.0
+                        ],
+                        "type": "alnum",
+                        "value": "19"
+                    }
+                ]
             },
             {
                 "row": 4,
@@ -103,7 +447,35 @@
                     176,
                     914
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            175,
+                            823,
+                            273,
+                            823,
+                            273,
+                            911,
+                            823,
+                            273
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            319.0,
+                            828.0,
+                            455.0,
+                            818.0,
+                            461.0,
+                            913.0,
+                            325.0,
+                            920.0
+                        ],
+                        "type": "HWChinese",
+                        "value": "中国"
+                    }
+                ]
             },
             {
                 "row": 5,
@@ -118,7 +490,36 @@
                     877,
                     911
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            888.0,
+                            849.0,
+                            1059.0,
+                            849.0,
+                            1059.0,
+                            883.0,
+                            888.0,
+                            883.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "户籍所在地:"
+                    },
+                    {
+                        "boundingbox": [
+                            1079.0,
+                            835.0,
+                            1428.0,
+                            835.0,
+                            1428.0,
+                            896.0,
+                            1079.0,
+                            896.0
+                        ],
+                        "type": "HWChinese",
+                        "value": "福建福州"
+                    }
+                ]
             },
             {
                 "row": 5,
@@ -136,7 +537,7 @@
                 "words": [
                     {
                         "type": "checkbox",
-                        "boundingBox": [
+                        "boundingbox": [
                             1733,
                             851,
                             1753,
@@ -150,7 +551,7 @@
                     },
                     {
                         "type": "checkbox",
-                        "boundingBox": [
+                        "boundingbox": [
                             1874,
                             851,
                             1895,
@@ -164,7 +565,7 @@
                     },
                     {
                         "type": "checkbox",
-                        "boundingBox": [
+                        "boundingbox": [
                             1984,
                             851,
                             2005,
@@ -194,7 +595,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             401,
                             912,
                             470,
@@ -224,7 +625,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             470,
                             912,
                             538,
@@ -254,7 +655,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1285,
                             910,
                             1354,
@@ -281,7 +682,102 @@
                     1557,
                     999
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            1557,
+                            909,
+                            1712,
+                            909,
+                            1712,
+                            998,
+                            909,
+                            1712
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            1728.0,
+                            930.0,
+                            1862.0,
+                            922.0,
+                            1864.0,
+                            972.0,
+                            1730.0,
+                            980.0
+                        ],
+                        "type": "alnum",
+                        "value": "2023"
+                    },
+                    {
+                        "boundingbox": [
+                            1904,
+                            909,
+                            1976,
+                            909,
+                            1976,
+                            998,
+                            909,
+                            1976
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            1985.0,
+                            934.0,
+                            2038.0,
+                            934.0,
+                            2038.0,
+                            992.0,
+                            1985.0,
+                            992.0
+                        ],
+                        "type": "alnum",
+                        "value": "4"
+                    },
+                    {
+                        "boundingbox": [
+                            2059,
+                            909,
+                            2119,
+                            909,
+                            2119,
+                            998,
+                            909,
+                            2119
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            2134.0,
+                            918.0,
+                            2171.0,
+                            918.0,
+                            2171.0,
+                            984.0,
+                            2134.0,
+                            984.0
+                        ],
+                        "type": "alnum",
+                        "value": "6"
+                    },
+                    {
+                        "boundingbox": [
+                            2215,
+                            909,
+                            2418,
+                            909,
+                            2418,
+                            998,
+                            909,
+                            2418
+                        ],
+                        "type": "printedChinese"
+                    }
+                ]
             },
             {
                 "row": 7,
@@ -299,7 +795,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             332,
                             914,
                             401,
@@ -329,7 +825,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             809,
                             911,
                             877,
@@ -359,7 +855,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1488,
                             910,
                             1557,
@@ -385,6 +881,22 @@
                     1003,
                     178,
                     1004
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            173.0,
+                            939.0,
+                            303.0,
+                            939.0,
+                            303.0,
+                            976.0,
+                            173.0,
+                            976.0
+                        ],
+                        "key": "证件号码"
+                    }
                 ]
             },
             {
@@ -403,7 +915,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             946,
                             911,
                             1013,
@@ -433,7 +945,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1013,
                             911,
                             1082,
@@ -463,7 +975,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1148,
                             910,
                             1217,
@@ -493,7 +1005,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1217,
                             910,
                             1285,
@@ -523,7 +1035,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             604,
                             912,
                             672,
@@ -553,7 +1065,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             877,
                             911,
                             946,
@@ -583,7 +1095,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1082,
                             911,
                             1148,
@@ -613,7 +1125,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1354,
                             910,
                             1421,
@@ -643,7 +1155,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1421,
                             910,
                             1488,
@@ -673,7 +1185,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             672,
                             912,
                             742,
@@ -703,7 +1215,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             742,
                             912,
                             809,
@@ -733,7 +1245,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             538,
                             912,
                             604,
@@ -763,7 +1275,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1933,
                             998,
                             2013,
@@ -793,7 +1305,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2094,
                             998,
                             2176,
@@ -823,7 +1335,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2013,
                             998,
                             2094,
@@ -853,7 +1365,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2176,
                             998,
                             2256,
@@ -880,7 +1392,112 @@
                     176,
                     1094
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            178,
+                            1004,
+                            334,
+                            1004,
+                            334,
+                            1088,
+                            1004,
+                            334
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            334,
+                            1004,
+                            550,
+                            1004,
+                            550,
+                            1088,
+                            1004,
+                            550
+                        ],
+                        "type": "HWChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            549,
+                            1004,
+                            705,
+                            1004,
+                            705,
+                            1088,
+                            1004,
+                            705
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            705,
+                            1004,
+                            861,
+                            1004,
+                            861,
+                            1088,
+                            1004,
+                            861
+                        ],
+                        "type": "HWChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            861,
+                            1004,
+                            909,
+                            1004,
+                            909,
+                            1088,
+                            1004,
+                            909
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            908,
+                            1004,
+                            1076,
+                            1004,
+                            1076,
+                            1088,
+                            1004,
+                            1076
+                        ],
+                        "type": "HWChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            1076,
+                            1004,
+                            1154,
+                            1004,
+                            1154,
+                            1088,
+                            1004,
+                            1154
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            1154,
+                            1004,
+                            1885,
+                            1004,
+                            1885,
+                            1088,
+                            1004,
+                            1885
+                        ],
+                        "type": "HWChinese"
+                    }
+                ]
             },
             {
                 "row": 8,
@@ -898,7 +1515,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2338,
                             998,
                             2418,
@@ -928,7 +1545,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2256,
                             998,
                             2338,
@@ -955,7 +1572,114 @@
                     176,
                     1184
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            176,
+                            1094,
+                            332,
+                            1094,
+                            332,
+                            1178,
+                            1094,
+                            332
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            342.0,
+                            1099.0,
+                            703.0,
+                            1099.0,
+                            703.0,
+                            1164.0,
+                            342.0,
+                            1164.0
+                        ],
+                        "type": "alnum",
+                        "value": "059126123456"
+                    },
+                    {
+                        "boundingbox": [
+                            716,
+                            1094,
+                            872,
+                            1094,
+                            872,
+                            1178,
+                            1094,
+                            872
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            872,
+                            1094,
+                            1256,
+                            1094,
+                            1256,
+                            1178,
+                            1094,
+                            1256
+                        ],
+                        "type": "alnum"
+                    },
+                    {
+                        "boundingbox": [
+                            1256,
+                            1094,
+                            1352,
+                            1094,
+                            1352,
+                            1178,
+                            1094,
+                            1352
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            1352,
+                            1094,
+                            1772,
+                            1094,
+                            1772,
+                            1178,
+                            1094,
+                            1772
+                        ],
+                        "type": "alnum"
+                    },
+                    {
+                        "boundingbox": [
+                            1772,
+                            1094,
+                            1904,
+                            1094,
+                            1904,
+                            1178,
+                            1094,
+                            1904
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            1895.0,
+                            1100.0,
+                            2279.0,
+                            1100.0,
+                            2279.0,
+                            1162.0,
+                            1895.0,
+                            1162.0
+                        ],
+                        "type": "HWChinese",
+                        "value": "x0123@qq.com"
+                    }
+                ]
             },
             {
                 "row": 10,
@@ -973,7 +1697,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2177,
                             1178,
                             2258,
@@ -1003,7 +1727,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1934,
                             1178,
                             2014,
@@ -1033,7 +1757,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2340,
                             1178,
                             2421,
@@ -1063,7 +1787,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2096,
                             1178,
                             2177,
@@ -1093,7 +1817,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2258,
                             1178,
                             2340,
@@ -1120,7 +1844,63 @@
                     176,
                     1266
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            191.0,
+                            1206.0,
+                            329.0,
+                            1206.0,
+                            329.0,
+                            1239.0,
+                            191.0,
+                            1239.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "单位名称:"
+                    },
+                    {
+                        "boundingbox": [
+                            332,
+                            1184,
+                            862,
+                            1184,
+                            862,
+                            1259,
+                            1184,
+                            862
+                        ],
+                        "type": "HWChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            879.0,
+                            1205.0,
+                            959.0,
+                            1205.0,
+                            959.0,
+                            1239.0,
+                            879.0,
+                            1239.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "职业:"
+                    },
+                    {
+                        "boundingbox": [
+                            948,
+                            1174,
+                            1727,
+                            1174,
+                            1727,
+                            1269,
+                            948,
+                            1269
+                        ],
+                        "type": "HWChinese",
+                        "value": "运维"
+                    }
+                ]
             },
             {
                 "row": 10,
@@ -1138,7 +1918,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2014,
                             1178,
                             2096,
@@ -1165,7 +1945,101 @@
                     1747,
                     1353
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            1747,
+                            1260,
+                            1911,
+                            1260,
+                            1911,
+                            1352,
+                            1260,
+                            1911
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            1927.0,
+                            1286.0,
+                            2044.0,
+                            1284.0,
+                            2045.0,
+                            1331.0,
+                            1928.0,
+                            1333.0
+                        ],
+                        "type": "alnum",
+                        "value": "2013"
+                    },
+                    {
+                        "boundingbox": [
+                            2075,
+                            1260,
+                            2111,
+                            1260,
+                            2111,
+                            1352,
+                            1260,
+                            2111
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            2112,
+                            1260,
+                            2221,
+                            1260,
+                            2221,
+                            1352,
+                            1260,
+                            2221
+                        ],
+                        "type": "alnum"
+                    },
+                    {
+                        "boundingbox": [
+                            2221,
+                            1260,
+                            2257,
+                            1260,
+                            2257,
+                            1352,
+                            1260,
+                            2257
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            2256.0,
+                            1262.0,
+                            2324.0,
+                            1256.0,
+                            2332.0,
+                            1337.0,
+                            2263.0,
+                            1343.0
+                        ],
+                        "type": "alnum",
+                        "value": "16"
+                    },
+                    {
+                        "boundingbox": [
+                            2355,
+                            1260,
+                            2422,
+                            1260,
+                            2422,
+                            1352,
+                            1260,
+                            2422
+                        ],
+                        "type": "printedChinese"
+                    }
+                ]
             },
             {
                 "row": 11,
@@ -1198,7 +2072,7 @@
                 "words": [
                     {
                         "type": "checkbox",
-                        "boundingBox": [
+                        "boundingbox": [
                             198,
                             1282,
                             223,
@@ -1227,8 +2101,34 @@
                 ],
                 "words": [
                     {
+                        "boundingbox": [
+                            878,
+                            1261,
+                            990,
+                            1261,
+                            990,
+                            1353,
+                            1261,
+                            990
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            990,
+                            1261,
+                            1474,
+                            1261,
+                            1474,
+                            1353,
+                            1261,
+                            1474
+                        ],
+                        "type": "HWChinese"
+                    },
+                    {
                         "type": "checkbox",
-                        "boundingBox": [
+                        "boundingbox": [
                             1565,
                             1296,
                             1587,
@@ -1242,7 +2142,7 @@
                     },
                     {
                         "type": "checkbox",
-                        "boundingBox": [
+                        "boundingbox": [
                             1650,
                             1296,
                             1671,
@@ -1272,7 +2172,7 @@
                 "words": [
                     {
                         "type": "checkbox",
-                        "boundingBox": [
+                        "boundingbox": [
                             1734,
                             1385,
                             1755,
@@ -1286,7 +2186,7 @@
                     },
                     {
                         "type": "checkbox",
-                        "boundingBox": [
+                        "boundingbox": [
                             1876,
                             1384,
                             1896,
@@ -1300,7 +2200,7 @@
                     },
                     {
                         "type": "checkbox",
-                        "boundingBox": [
+                        "boundingbox": [
                             1986,
                             1384,
                             2007,
@@ -1327,7 +2227,36 @@
                     878,
                     1446
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            905.0,
+                            1385.0,
+                            1076.0,
+                            1385.0,
+                            1076.0,
+                            1419.0,
+                            905.0,
+                            1419.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "户籍所在地:"
+                    },
+                    {
+                        "boundingbox": [
+                            1095.0,
+                            1373.0,
+                            1406.0,
+                            1371.0,
+                            1406.0,
+                            1427.0,
+                            1095.0,
+                            1429.0
+                        ],
+                        "type": "HWChinese",
+                        "value": "福建福州"
+                    }
+                ]
             },
             {
                 "row": 12,
@@ -1342,7 +2271,35 @@
                     178,
                     1448
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            176,
+                            1359,
+                            271,
+                            1359,
+                            271,
+                            1446,
+                            1359,
+                            271
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            317.0,
+                            1363.0,
+                            440.0,
+                            1363.0,
+                            440.0,
+                            1453.0,
+                            317.0,
+                            1453.0
+                        ],
+                        "type": "HWChinese",
+                        "value": "中国"
+                    }
+                ]
             },
             {
                 "row": 13,
@@ -1360,7 +2317,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             400,
                             1448,
                             469,
@@ -1390,7 +2347,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             469,
                             1447,
                             536,
@@ -1420,7 +2377,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1286,
                             1444,
                             1354,
@@ -1450,7 +2407,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             332,
                             1448,
                             400,
@@ -1480,7 +2437,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             810,
                             1446,
                             878,
@@ -1510,7 +2467,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1490,
                             1444,
                             1558,
@@ -1536,6 +2493,22 @@
                     1538,
                     176,
                     1539
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            174.0,
+                            1473.0,
+                            304.0,
+                            1473.0,
+                            304.0,
+                            1511.0,
+                            174.0,
+                            1511.0
+                        ],
+                        "key": "证件号码"
+                    }
                 ]
             },
             {
@@ -1554,7 +2527,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             946,
                             1445,
                             1014,
@@ -1584,7 +2557,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1014,
                             1445,
                             1082,
@@ -1614,7 +2587,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1149,
                             1445,
                             1218,
@@ -1644,7 +2617,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1218,
                             1444,
                             1286,
@@ -1671,7 +2644,101 @@
                     1558,
                     1534
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            1558,
+                            1444,
+                            1713,
+                            1444,
+                            1713,
+                            1532,
+                            1444,
+                            1713
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            1713,
+                            1444,
+                            1904,
+                            1444,
+                            1904,
+                            1532,
+                            1444,
+                            1904
+                        ],
+                        "type": "alnum"
+                    },
+                    {
+                        "boundingbox": [
+                            1904,
+                            1444,
+                            1964,
+                            1444,
+                            1964,
+                            1532,
+                            1444,
+                            1964
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            2000.0,
+                            1456.0,
+                            2041.0,
+                            1456.0,
+                            2041.0,
+                            1518.0,
+                            2000.0,
+                            1518.0
+                        ],
+                        "type": "alnum",
+                        "value": "9"
+                    },
+                    {
+                        "boundingbox": [
+                            2059,
+                            1444,
+                            2111,
+                            1444,
+                            2111,
+                            1532,
+                            1444,
+                            2111
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            2137.0,
+                            1460.0,
+                            2168.0,
+                            1460.0,
+                            2168.0,
+                            1503.0,
+                            2137.0,
+                            1503.0
+                        ],
+                        "type": "alnum",
+                        "value": "6"
+                    },
+                    {
+                        "boundingbox": [
+                            2207,
+                            1444,
+                            2422,
+                            1444,
+                            2422,
+                            1532,
+                            1444,
+                            2422
+                        ],
+                        "type": "printedChinese"
+                    }
+                ]
             },
             {
                 "row": 13,
@@ -1689,7 +2756,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             605,
                             1447,
                             674,
@@ -1719,7 +2786,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             878,
                             1446,
                             946,
@@ -1749,7 +2816,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1082,
                             1445,
                             1149,
@@ -1779,7 +2846,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1354,
                             1444,
                             1422,
@@ -1809,7 +2876,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1422,
                             1444,
                             1490,
@@ -1839,7 +2906,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             674,
                             1446,
                             742,
@@ -1869,7 +2936,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             742,
                             1447,
                             810,
@@ -1899,7 +2966,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             536,
                             1447,
                             605,
@@ -1929,7 +2996,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1944,
                             1533,
                             2024,
@@ -1956,7 +3023,120 @@
                     177,
                     1629
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            189.0,
+                            1567.0,
+                            268.0,
+                            1567.0,
+                            268.0,
+                            1604.0,
+                            189.0,
+                            1604.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "住址:"
+                    },
+                    {
+                        "boundingbox": [
+                            273.0,
+                            1530.0,
+                            436.0,
+                            1529.0,
+                            439.0,
+                            1628.0,
+                            276.0,
+                            1631.0
+                        ],
+                        "type": "HWChinese",
+                        "value": "福建"
+                    },
+                    {
+                        "boundingbox": [
+                            543.0,
+                            1565.0,
+                            680.0,
+                            1568.0,
+                            679.0,
+                            1601.0,
+                            542.0,
+                            1599.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "省/直辖市"
+                    },
+                    {
+                        "boundingbox": [
+                            692.0,
+                            1529.0,
+                            870.0,
+                            1538.0,
+                            866.0,
+                            1631.0,
+                            688.0,
+                            1629.0
+                        ],
+                        "type": "HWChinese",
+                        "value": "福州"
+                    },
+                    {
+                        "boundingbox": [
+                            881.0,
+                            1567.0,
+                            913.0,
+                            1567.0,
+                            913.0,
+                            1600.0,
+                            881.0,
+                            1600.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "市"
+                    },
+                    {
+                        "boundingbox": [
+                            927.0,
+                            1539.0,
+                            1062.0,
+                            1539.0,
+                            1062.0,
+                            1631.0,
+                            927.0,
+                            1631.0
+                        ],
+                        "type": "HWChinese",
+                        "value": "仓山"
+                    },
+                    {
+                        "boundingbox": [
+                            1096.0,
+                            1565.0,
+                            1169.0,
+                            1565.0,
+                            1169.0,
+                            1600.0,
+                            1096.0,
+                            1600.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "区/县"
+                    },
+                    {
+                        "boundingbox": [
+                            1209.0,
+                            1555.0,
+                            1614.0,
+                            1554.0,
+                            1614.0,
+                            1612.0,
+                            1209.0,
+                            1613.0
+                        ],
+                        "type": "HWChinese",
+                        "value": "万达广场B座"
+                    }
+                ]
             },
             {
                 "row": 14,
@@ -1974,7 +3154,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2103,
                             1532,
                             2184,
@@ -2004,7 +3184,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2024,
                             1533,
                             2103,
@@ -2034,7 +3214,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2184,
                             1532,
                             2262,
@@ -2064,7 +3244,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2342,
                             1532,
                             2422,
@@ -2094,7 +3274,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2262,
                             1532,
                             2342,
@@ -2121,7 +3301,117 @@
                     177,
                     1718
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            189.0,
+                            1659.0,
+                            331.0,
+                            1655.0,
+                            331.0,
+                            1688.0,
+                            189.0,
+                            1691.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "家庭电话:"
+                    },
+                    {
+                        "boundingbox": [
+                            333,
+                            1629,
+                            717,
+                            1629,
+                            717,
+                            1711,
+                            1629,
+                            717
+                        ],
+                        "type": "alnum"
+                    },
+                    {
+                        "boundingbox": [
+                            722.0,
+                            1654.0,
+                            863.0,
+                            1652.0,
+                            864.0,
+                            1688.0,
+                            723.0,
+                            1690.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "工作电话:"
+                    },
+                    {
+                        "boundingbox": [
+                            876.0,
+                            1651.0,
+                            1241.0,
+                            1634.0,
+                            1243.0,
+                            1681.0,
+                            878.0,
+                            1698.0
+                        ],
+                        "type": "alnum",
+                        "value": "059190123456"
+                    },
+                    {
+                        "boundingbox": [
+                            1256.0,
+                            1652.0,
+                            1336.0,
+                            1654.0,
+                            1335.0,
+                            1691.0,
+                            1256.0,
+                            1688.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "手机:"
+                    },
+                    {
+                        "boundingbox": [
+                            1341,
+                            1629,
+                            1773,
+                            1629,
+                            1773,
+                            1711,
+                            1629,
+                            1773
+                        ],
+                        "type": "alnum"
+                    },
+                    {
+                        "boundingbox": [
+                            1789.0,
+                            1653.0,
+                            1888.0,
+                            1653.0,
+                            1888.0,
+                            1686.0,
+                            1789.0,
+                            1686.0
+                        ],
+                        "type": "printedChinese",
+                        "key": "E-mail:"
+                    },
+                    {
+                        "boundingbox": [
+                            1905,
+                            1629,
+                            2421,
+                            1629,
+                            2421,
+                            1711,
+                            1629,
+                            2421
+                        ],
+                        "type": "HWChinese"
+                    }
+                ]
             },
             {
                 "row": 16,
@@ -2139,7 +3429,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2184,
                             1712,
                             2262,
@@ -2166,7 +3456,60 @@
                     176,
                     1800
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            177,
+                            1718,
+                            328,
+                            1718,
+                            328,
+                            1792,
+                            1718,
+                            328
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            328,
+                            1718,
+                            866,
+                            1718,
+                            866,
+                            1792,
+                            1718,
+                            866
+                        ],
+                        "type": "HWChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            867,
+                            1718,
+                            964,
+                            1718,
+                            964,
+                            1792,
+                            1718,
+                            964
+                        ],
+                        "type": "printedChinese"
+                    },
+                    {
+                        "boundingbox": [
+                            963,
+                            1718,
+                            1725,
+                            1718,
+                            1725,
+                            1792,
+                            1718,
+                            1725
+                        ],
+                        "type": "HWChinese"
+                    }
+                ]
             },
             {
                 "row": 16,
@@ -2184,7 +3527,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1944,
                             1712,
                             2024,
@@ -2214,7 +3557,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2343,
                             1711,
                             2422,
@@ -2244,7 +3587,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2262,
                             1712,
                             2343,
@@ -2274,7 +3617,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2104,
                             1712,
                             2184,
@@ -2304,7 +3647,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2024,
                             1712,
                             2104,
@@ -2360,6 +3703,22 @@
                     1954,
                     1356,
                     1957
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1350.0,
+                            1901.0,
+                            1599.0,
+                            1899.0,
+                            1599.0,
+                            1932.0,
+                            1350.0,
+                            1934.0
+                        ],
+                        "key": "证件号码与有效期"
+                    }
                 ]
             },
             {
@@ -2374,6 +3733,22 @@
                     1957,
                     1062,
                     1959
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1056.0,
+                            1904.0,
+                            1259.0,
+                            1902.0,
+                            1259.0,
+                            1936.0,
+                            1056.0,
+                            1938.0
+                        ],
+                        "key": "是被保险人的:"
+                    }
                 ]
             },
             {
@@ -2388,6 +3763,22 @@
                     1960,
                     639,
                     1960
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            643.0,
+                            1923.0,
+                            703.0,
+                            1923.0,
+                            703.0,
+                            1954.0,
+                            643.0,
+                            1954.0
+                        ],
+                        "key": "收益比例"
+                    }
                 ]
             },
             {
@@ -2402,6 +3793,22 @@
                     1959,
                     758,
                     1960
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            753.0,
+                            1904.0,
+                            874.0,
+                            1907.0,
+                            873.0,
+                            1939.0,
+                            752.0,
+                            1936.0
+                        ],
+                        "key": "出生日期"
+                    }
                 ]
             },
             {
@@ -2416,6 +3823,22 @@
                     1959,
                     946,
                     1959
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            947.0,
+                            1905.0,
+                            1011.0,
+                            1905.0,
+                            1011.0,
+                            1938.0,
+                            947.0,
+                            1938.0
+                        ],
+                        "key": "性别"
+                    }
                 ]
             },
             {
@@ -2430,6 +3853,21 @@
                     1960,
                     520,
                     1960
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            520,
+                            1888,
+                            638,
+                            1887,
+                            639,
+                            1960,
+                            520,
+                            1960
+                        ]
+                    }
                 ]
             },
             {
@@ -2444,6 +3882,22 @@
                     1960,
                     175,
                     1962
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            301.0,
+                            1905.0,
+                            385.0,
+                            1905.0,
+                            385.0,
+                            1940.0,
+                            301.0,
+                            1940.0
+                        ],
+                        "key": "姓名"
+                    }
                 ]
             },
             {
@@ -2458,6 +3912,22 @@
                     2054,
                     175,
                     2055
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            181.0,
+                            1967.0,
+                            368.0,
+                            1980.0,
+                            359.0,
+                            2063.0,
+                            172.0,
+                            2053.0
+                        ],
+                        "value": "杨人"
+                    }
                 ]
             },
             {
@@ -2472,6 +3942,21 @@
                     2052,
                     521,
                     2054
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            520,
+                            1960,
+                            639,
+                            1960,
+                            640,
+                            2052,
+                            521,
+                            2054
+                        ]
+                    }
                 ]
             },
             {
@@ -2486,6 +3971,22 @@
                     2052,
                     640,
                     2052
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            659.0,
+                            1997.0,
+                            719.0,
+                            2000.0,
+                            716.0,
+                            2048.0,
+                            656.0,
+                            2045.0
+                        ],
+                        "value": "50"
+                    }
                 ]
             },
             {
@@ -2500,6 +4001,22 @@
                     2052,
                     759,
                     2052
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            752.0,
+                            1982.0,
+                            920.0,
+                            1982.0,
+                            920.0,
+                            2044.0,
+                            752.0,
+                            2044.0
+                        ],
+                        "value": "2001.1.1"
+                    }
                 ]
             },
             {
@@ -2514,6 +4031,21 @@
                     2052,
                     946,
                     2052
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            946,
+                            1959,
+                            1062,
+                            1959,
+                            1063,
+                            2052,
+                            946,
+                            2052
+                        ]
+                    }
                 ]
             },
             {
@@ -2528,6 +4060,21 @@
                     2008,
                     2007,
                     2008
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2007,
+                            1955,
+                            2066,
+                            1955,
+                            2066,
+                            2008,
+                            2007,
+                            2008
+                        ]
+                    }
                 ]
             },
             {
@@ -2542,6 +4089,21 @@
                     2010,
                     1533,
                     2010
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1533,
+                            1956,
+                            1592,
+                            1956,
+                            1592,
+                            2010,
+                            1533,
+                            2010
+                        ]
+                    }
                 ]
             },
             {
@@ -2556,6 +4118,21 @@
                     2010,
                     1473,
                     2010
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1474,
+                            1957,
+                            1533,
+                            1956,
+                            1533,
+                            2010,
+                            1473,
+                            2010
+                        ]
+                    }
                 ]
             },
             {
@@ -2570,6 +4147,21 @@
                     2009,
                     1592,
                     2010
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1592,
+                            1956,
+                            1652,
+                            1956,
+                            1652,
+                            2009,
+                            1592,
+                            2010
+                        ]
+                    }
                 ]
             },
             {
@@ -2584,6 +4176,21 @@
                     2009,
                     1652,
                     2009
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1652,
+                            1956,
+                            1710,
+                            1957,
+                            1710,
+                            2009,
+                            1652,
+                            2009
+                        ]
+                    }
                 ]
             },
             {
@@ -2598,6 +4205,21 @@
                     2009,
                     1710,
                     2009
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1710,
+                            1957,
+                            1770,
+                            1956,
+                            1770,
+                            2009,
+                            1710,
+                            2009
+                        ]
+                    }
                 ]
             },
             {
@@ -2612,6 +4234,21 @@
                     2008,
                     2066,
                     2008
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2066,
+                            1955,
+                            2126,
+                            1955,
+                            2126,
+                            2008,
+                            2066,
+                            2008
+                        ]
+                    }
                 ]
             },
             {
@@ -2626,6 +4263,21 @@
                     2008,
                     2364,
                     2008
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2364,
+                            1955,
+                            2422,
+                            1954,
+                            2422,
+                            2008,
+                            2364,
+                            2008
+                        ]
+                    }
                 ]
             },
             {
@@ -2640,6 +4292,21 @@
                     2010,
                     1414,
                     2010
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1414,
+                            1957,
+                            1474,
+                            1957,
+                            1473,
+                            2010,
+                            1414,
+                            2010
+                        ]
+                    }
                 ]
             },
             {
@@ -2654,6 +4321,21 @@
                     2008,
                     2244,
                     2008
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2244,
+                            1955,
+                            2304,
+                            1955,
+                            2304,
+                            2008,
+                            2244,
+                            2008
+                        ]
+                    }
                 ]
             },
             {
@@ -2668,6 +4350,21 @@
                     2008,
                     2304,
                     2008
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2304,
+                            1955,
+                            2364,
+                            1955,
+                            2364,
+                            2008,
+                            2304,
+                            2008
+                        ]
+                    }
                 ]
             },
             {
@@ -2682,6 +4379,21 @@
                     2010,
                     1356,
                     2010
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1356,
+                            1957,
+                            1414,
+                            1957,
+                            1414,
+                            2010,
+                            1356,
+                            2010
+                        ]
+                    }
                 ]
             },
             {
@@ -2696,6 +4408,21 @@
                     2052,
                     1063,
                     2052
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1062,
+                            1959,
+                            1356,
+                            1957,
+                            1356,
+                            2052,
+                            1063,
+                            2052
+                        ]
+                    }
                 ]
             },
             {
@@ -2710,6 +4437,21 @@
                     2009,
                     1770,
                     2009
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1770,
+                            1956,
+                            1830,
+                            1956,
+                            1830,
+                            2009,
+                            1770,
+                            2009
+                        ]
+                    }
                 ]
             },
             {
@@ -2724,6 +4466,21 @@
                     2009,
                     1830,
                     2009
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1830,
+                            1956,
+                            1888,
+                            1956,
+                            1889,
+                            2009,
+                            1830,
+                            2009
+                        ]
+                    }
                 ]
             },
             {
@@ -2738,6 +4495,21 @@
                     2008,
                     1889,
                     2009
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1888,
+                            1956,
+                            1948,
+                            1955,
+                            1948,
+                            2008,
+                            1889,
+                            2009
+                        ]
+                    }
                 ]
             },
             {
@@ -2752,6 +4524,21 @@
                     2008,
                     1948,
                     2008
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1948,
+                            1955,
+                            2007,
+                            1955,
+                            2007,
+                            2008,
+                            1948,
+                            2008
+                        ]
+                    }
                 ]
             },
             {
@@ -2766,6 +4553,21 @@
                     2008,
                     2126,
                     2008
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2126,
+                            1955,
+                            2185,
+                            1955,
+                            2185,
+                            2008,
+                            2126,
+                            2008
+                        ]
+                    }
                 ]
             },
             {
@@ -2780,6 +4582,21 @@
                     2008,
                     2185,
                     2008
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2185,
+                            1955,
+                            2244,
+                            1955,
+                            2244,
+                            2008,
+                            2185,
+                            2008
+                        ]
+                    }
                 ]
             },
             {
@@ -2794,6 +4611,21 @@
                     2048,
                     1356,
                     2052
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1356,
+                            2010,
+                            2422,
+                            2008,
+                            2422,
+                            2048,
+                            1356,
+                            2052
+                        ]
+                    }
                 ]
             },
             {
@@ -2808,6 +4640,21 @@
                     2101,
                     1592,
                     2101
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1592,
+                            2050,
+                            1652,
+                            2050,
+                            1652,
+                            2101,
+                            1592,
+                            2101
+                        ]
+                    }
                 ]
             },
             {
@@ -2822,6 +4669,21 @@
                     2155,
                     1063,
                     2156
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1063,
+                            2052,
+                            1356,
+                            2052,
+                            1360,
+                            2155,
+                            1063,
+                            2156
+                        ]
+                    }
                 ]
             },
             {
@@ -2836,6 +4698,21 @@
                     2101,
                     1710,
                     2100
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1710,
+                            2051,
+                            1770,
+                            2050,
+                            1770,
+                            2101,
+                            1710,
+                            2100
+                        ]
+                    }
                 ]
             },
             {
@@ -2850,6 +4727,21 @@
                     2102,
                     1356,
                     2102
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1356,
+                            2052,
+                            1414,
+                            2051,
+                            1414,
+                            2102,
+                            1356,
+                            2102
+                        ]
+                    }
                 ]
             },
             {
@@ -2864,6 +4756,21 @@
                     2102,
                     1414,
                     2102
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1414,
+                            2051,
+                            1474,
+                            2050,
+                            1474,
+                            2102,
+                            1414,
+                            2102
+                        ]
+                    }
                 ]
             },
             {
@@ -2878,6 +4785,21 @@
                     2099,
                     2126,
                     2099
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2126,
+                            2049,
+                            2185,
+                            2049,
+                            2185,
+                            2099,
+                            2126,
+                            2099
+                        ]
+                    }
                 ]
             },
             {
@@ -2892,6 +4814,21 @@
                     2099,
                     2364,
                     2099
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2364,
+                            2049,
+                            2422,
+                            2048,
+                            2422,
+                            2099,
+                            2364,
+                            2099
+                        ]
+                    }
                 ]
             },
             {
@@ -2906,6 +4843,22 @@
                     2157,
                     174,
                     2159
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            199.0,
+                            2067.0,
+                            380.0,
+                            2067.0,
+                            380.0,
+                            2154.0,
+                            199.0,
+                            2154.0
+                        ],
+                        "value": "杨从"
+                    }
                 ]
             },
             {
@@ -2920,6 +4873,22 @@
                     2156,
                     521,
                     2157
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            559.0,
+                            2079.0,
+                            603.0,
+                            2071.0,
+                            610.0,
+                            2112.0,
+                            566.0,
+                            2119.0
+                        ],
+                        "value": "2"
+                    }
                 ]
             },
             {
@@ -2934,6 +4903,22 @@
                     2156,
                     640,
                     2156
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            656.0,
+                            2081.0,
+                            725.0,
+                            2071.0,
+                            733.0,
+                            2127.0,
+                            664.0,
+                            2137.0
+                        ],
+                        "value": "50"
+                    }
                 ]
             },
             {
@@ -2948,6 +4933,21 @@
                     2156,
                     760,
                     2156
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            759,
+                            2052,
+                            946,
+                            2052,
+                            946,
+                            2156,
+                            760,
+                            2156
+                        ]
+                    }
                 ]
             },
             {
@@ -2962,6 +4962,21 @@
                     2156,
                     946,
                     2156
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            946,
+                            2052,
+                            1063,
+                            2052,
+                            1063,
+                            2156,
+                            946,
+                            2156
+                        ]
+                    }
                 ]
             },
             {
@@ -2976,6 +4991,21 @@
                     2099,
                     2244,
                     2099
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2244,
+                            2049,
+                            2303,
+                            2048,
+                            2303,
+                            2099,
+                            2244,
+                            2099
+                        ]
+                    }
                 ]
             },
             {
@@ -2990,6 +5020,21 @@
                     2099,
                     2303,
                     2099
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2303,
+                            2048,
+                            2364,
+                            2049,
+                            2364,
+                            2099,
+                            2303,
+                            2099
+                        ]
+                    }
                 ]
             },
             {
@@ -3004,6 +5049,21 @@
                     2101,
                     1474,
                     2102
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1474,
+                            2050,
+                            1533,
+                            2050,
+                            1534,
+                            2101,
+                            1474,
+                            2102
+                        ]
+                    }
                 ]
             },
             {
@@ -3018,6 +5078,21 @@
                     2101,
                     1534,
                     2101
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1533,
+                            2050,
+                            1592,
+                            2050,
+                            1592,
+                            2101,
+                            1534,
+                            2101
+                        ]
+                    }
                 ]
             },
             {
@@ -3032,6 +5107,21 @@
                     2099,
                     2007,
                     2100
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2007,
+                            2049,
+                            2066,
+                            2049,
+                            2066,
+                            2099,
+                            2007,
+                            2100
+                        ]
+                    }
                 ]
             },
             {
@@ -3046,6 +5136,21 @@
                     2100,
                     1652,
                     2101
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1652,
+                            2050,
+                            1710,
+                            2051,
+                            1710,
+                            2100,
+                            1652,
+                            2101
+                        ]
+                    }
                 ]
             },
             {
@@ -3060,6 +5165,21 @@
                     2100,
                     1889,
                     2101
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1889,
+                            2050,
+                            1948,
+                            2049,
+                            1948,
+                            2100,
+                            1889,
+                            2101
+                        ]
+                    }
                 ]
             },
             {
@@ -3074,6 +5194,21 @@
                     2100,
                     1948,
                     2100
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1948,
+                            2049,
+                            2007,
+                            2049,
+                            2007,
+                            2100,
+                            1948,
+                            2100
+                        ]
+                    }
                 ]
             },
             {
@@ -3088,6 +5223,21 @@
                     2101,
                     1770,
                     2101
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1770,
+                            2050,
+                            1829,
+                            2050,
+                            1829,
+                            2101,
+                            1770,
+                            2101
+                        ]
+                    }
                 ]
             },
             {
@@ -3102,6 +5252,21 @@
                     2101,
                     1829,
                     2101
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1829,
+                            2050,
+                            1889,
+                            2050,
+                            1889,
+                            2101,
+                            1829,
+                            2101
+                        ]
+                    }
                 ]
             },
             {
@@ -3116,6 +5281,21 @@
                     2099,
                     2185,
                     2099
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2185,
+                            2049,
+                            2244,
+                            2049,
+                            2244,
+                            2099,
+                            2185,
+                            2099
+                        ]
+                    }
                 ]
             },
             {
@@ -3130,6 +5310,21 @@
                     2099,
                     2066,
                     2099
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            2066,
+                            2049,
+                            2126,
+                            2049,
+                            2126,
+                            2099,
+                            2066,
+                            2099
+                        ]
+                    }
                 ]
             },
             {
@@ -3144,6 +5339,21 @@
                     2153,
                     1360,
                     2155
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1356,
+                            2102,
+                            2422,
+                            2099,
+                            2422,
+                            2153,
+                            1360,
+                            2155
+                        ]
+                    }
                 ]
             },
             {
@@ -3158,6 +5368,21 @@
                     2230,
                     174,
                     2232
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            174,
+                            2159,
+                            395,
+                            2158,
+                            395,
+                            2230,
+                            174,
+                            2232
+                        ]
+                    }
                 ]
             },
             {
@@ -3172,6 +5397,22 @@
                     2229,
                     395,
                     2230
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            514.0,
+                            2179.0,
+                            705.0,
+                            2177.0,
+                            705.0,
+                            2208.0,
+                            514.0,
+                            2210.0
+                        ],
+                        "key": "投保险种名称"
+                    }
                 ]
             },
             {
@@ -3186,6 +5427,22 @@
                     2226,
                     1718,
                     2227
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1714.0,
+                            2174.0,
+                            1904.0,
+                            2174.0,
+                            1904.0,
+                            2204.0,
+                            1714.0,
+                            2204.0
+                        ],
+                        "key": "年金领取年龄"
+                    }
                 ]
             },
             {
@@ -3215,6 +5472,22 @@
                     2229,
                     832,
                     2229
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            826.0,
+                            2178.0,
+                            957.0,
+                            2178.0,
+                            957.0,
+                            2209.0,
+                            826.0,
+                            2209.0
+                        ],
+                        "key": "险种代码"
+                    }
                 ]
             },
             {
@@ -3229,6 +5502,22 @@
                     2228,
                     987,
                     2229
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            982.0,
+                            2178.0,
+                            1110.0,
+                            2178.0,
+                            1110.0,
+                            2209.0,
+                            982.0,
+                            2209.0
+                        ],
+                        "key": "交费期限"
+                    }
                 ]
             },
             {
@@ -3243,6 +5532,22 @@
                     2228,
                     1165,
                     2228
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1162.0,
+                            2177.0,
+                            1290.0,
+                            2177.0,
+                            1290.0,
+                            2209.0,
+                            1162.0,
+                            2209.0
+                        ],
+                        "key": "保险期间"
+                    }
                 ]
             },
             {
@@ -3257,6 +5562,22 @@
                     2227,
                     1364,
                     2228
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1402.0,
+                            2175.0,
+                            1669.0,
+                            2174.0,
+                            1670.0,
+                            2205.0,
+                            1402.0,
+                            2206.0
+                        ],
+                        "key": "份数/保险金额/档次"
+                    }
                 ]
             },
             {
@@ -3271,6 +5592,22 @@
                     2226,
                     1996,
                     2226
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1993.0,
+                            2174.0,
+                            2090.0,
+                            2174.0,
+                            2090.0,
+                            2206.0,
+                            1993.0,
+                            2206.0
+                        ],
+                        "key": "保险费"
+                    }
                 ]
             },
             {
@@ -3285,6 +5622,22 @@
                     2308,
                     175,
                     2308
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            164.0,
+                            2254.0,
+                            268.0,
+                            2248.0,
+                            270.0,
+                            2299.0,
+                            164.0,
+                            2305.0
+                        ],
+                        "value": "1001"
+                    }
                 ]
             },
             {
@@ -3299,6 +5652,21 @@
                     2306,
                     395,
                     2308
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            395,
+                            2230,
+                            832,
+                            2229,
+                            832,
+                            2306,
+                            395,
+                            2308
+                        ]
+                    }
                 ]
             },
             {
@@ -3313,6 +5681,22 @@
                     2305,
                     832,
                     2306
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            837.0,
+                            2244.0,
+                            880.0,
+                            2249.0,
+                            873.0,
+                            2299.0,
+                            830.0,
+                            2294.0
+                        ],
+                        "value": "01"
+                    }
                 ]
             },
             {
@@ -3327,6 +5711,21 @@
                     2305,
                     987,
                     2305
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            987,
+                            2229,
+                            1165,
+                            2228,
+                            1165,
+                            2305,
+                            987,
+                            2305
+                        ]
+                    }
                 ]
             },
             {
@@ -3341,6 +5740,21 @@
                     2304,
                     1165,
                     2305
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1165,
+                            2228,
+                            1364,
+                            2228,
+                            1363,
+                            2304,
+                            1165,
+                            2305
+                        ]
+                    }
                 ]
             },
             {
@@ -3355,6 +5769,22 @@
                     2304,
                     1363,
                     2304
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1459.0,
+                            2253.0,
+                            1561.0,
+                            2253.0,
+                            1561.0,
+                            2304.0,
+                            1459.0,
+                            2304.0
+                        ],
+                        "value": "5000"
+                    }
                 ]
             },
             {
@@ -3369,6 +5799,22 @@
                     2303,
                     1718,
                     2304
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1710.0,
+                            2245.0,
+                            1779.0,
+                            2245.0,
+                            1779.0,
+                            2291.0,
+                            1710.0,
+                            2291.0
+                        ],
+                        "value": "70"
+                    }
                 ]
             },
             {
@@ -3383,6 +5829,21 @@
                     2302,
                     1996,
                     2303
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1996,
+                            2226,
+                            2422,
+                            2226,
+                            2422,
+                            2302,
+                            1996,
+                            2303
+                        ]
+                    }
                 ]
             },
             {
@@ -3397,6 +5858,21 @@
                     2384,
                     175,
                     2386
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            175,
+                            2308,
+                            395,
+                            2308,
+                            396,
+                            2384,
+                            175,
+                            2386
+                        ]
+                    }
                 ]
             },
             {
@@ -3411,6 +5887,22 @@
                     2382,
                     396,
                     2384
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            386.0,
+                            2298.0,
+                            594.0,
+                            2307.0,
+                            590.0,
+                            2391.0,
+                            385.0,
+                            2382.0
+                        ],
+                        "value": "意外险"
+                    }
                 ]
             },
             {
@@ -3425,6 +5917,21 @@
                     2382,
                     832,
                     2382
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            832,
+                            2306,
+                            987,
+                            2305,
+                            988,
+                            2382,
+                            832,
+                            2382
+                        ]
+                    }
                 ]
             },
             {
@@ -3439,6 +5946,22 @@
                     2382,
                     988,
                     2382
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1005.0,
+                            2333.0,
+                            1068.0,
+                            2329.0,
+                            1070.0,
+                            2362.0,
+                            1007.0,
+                            2366.0
+                        ],
+                        "value": "20"
+                    }
                 ]
             },
             {
@@ -3453,6 +5976,22 @@
                     2382,
                     1165,
                     2382
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1161.0,
+                            2327.0,
+                            1226.0,
+                            2327.0,
+                            1226.0,
+                            2375.0,
+                            1161.0,
+                            2375.0
+                        ],
+                        "value": "40"
+                    }
                 ]
             },
             {
@@ -3467,6 +6006,21 @@
                     2380,
                     1363,
                     2382
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1363,
+                            2304,
+                            1718,
+                            2304,
+                            1718,
+                            2380,
+                            1363,
+                            2382
+                        ]
+                    }
                 ]
             },
             {
@@ -3481,6 +6035,21 @@
                     2380,
                     1718,
                     2380
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1718,
+                            2304,
+                            1996,
+                            2303,
+                            1996,
+                            2380,
+                            1718,
+                            2380
+                        ]
+                    }
                 ]
             },
             {
@@ -3495,6 +6064,21 @@
                     2380,
                     1996,
                     2380
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1996,
+                            2303,
+                            2422,
+                            2302,
+                            2424,
+                            2380,
+                            1996,
+                            2380
+                        ]
+                    }
                 ]
             },
             {
@@ -3509,6 +6093,21 @@
                     2460,
                     176,
                     2462
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            175,
+                            2386,
+                            396,
+                            2384,
+                            396,
+                            2460,
+                            176,
+                            2462
+                        ]
+                    }
                 ]
             },
             {
@@ -3523,6 +6122,21 @@
                     2459,
                     396,
                     2460
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            396,
+                            2384,
+                            832,
+                            2382,
+                            832,
+                            2459,
+                            396,
+                            2460
+                        ]
+                    }
                 ]
             },
             {
@@ -3537,6 +6151,21 @@
                     2459,
                     832,
                     2459
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            832,
+                            2382,
+                            988,
+                            2382,
+                            988,
+                            2459,
+                            832,
+                            2459
+                        ]
+                    }
                 ]
             },
             {
@@ -3551,6 +6180,21 @@
                     2458,
                     988,
                     2459
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            988,
+                            2382,
+                            1165,
+                            2382,
+                            1166,
+                            2458,
+                            988,
+                            2459
+                        ]
+                    }
                 ]
             },
             {
@@ -3565,6 +6209,21 @@
                     2458,
                     1166,
                     2458
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1165,
+                            2382,
+                            1363,
+                            2382,
+                            1362,
+                            2458,
+                            1166,
+                            2458
+                        ]
+                    }
                 ]
             },
             {
@@ -3579,6 +6238,21 @@
                     2458,
                     1362,
                     2458
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1363,
+                            2382,
+                            1718,
+                            2380,
+                            1718,
+                            2458,
+                            1362,
+                            2458
+                        ]
+                    }
                 ]
             },
             {
@@ -3593,6 +6267,21 @@
                     2457,
                     1718,
                     2458
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1718,
+                            2380,
+                            1996,
+                            2380,
+                            1996,
+                            2457,
+                            1718,
+                            2458
+                        ]
+                    }
                 ]
             },
             {
@@ -3607,6 +6296,21 @@
                     2456,
                     1996,
                     2457
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1996,
+                            2380,
+                            2424,
+                            2380,
+                            2425,
+                            2456,
+                            1996,
+                            2457
+                        ]
+                    }
                 ]
             },
             {
@@ -3621,6 +6325,21 @@
                     2538,
                     176,
                     2539
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            176,
+                            2462,
+                            396,
+                            2460,
+                            396,
+                            2538,
+                            176,
+                            2539
+                        ]
+                    }
                 ]
             },
             {
@@ -3635,6 +6354,21 @@
                     2537,
                     396,
                     2538
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            396,
+                            2460,
+                            832,
+                            2459,
+                            832,
+                            2537,
+                            396,
+                            2538
+                        ]
+                    }
                 ]
             },
             {
@@ -3649,6 +6383,21 @@
                     2536,
                     832,
                     2537
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            832,
+                            2459,
+                            988,
+                            2459,
+                            988,
+                            2536,
+                            832,
+                            2537
+                        ]
+                    }
                 ]
             },
             {
@@ -3663,6 +6412,21 @@
                     2536,
                     988,
                     2536
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            988,
+                            2459,
+                            1166,
+                            2458,
+                            1166,
+                            2536,
+                            988,
+                            2536
+                        ]
+                    }
                 ]
             },
             {
@@ -3677,6 +6441,21 @@
                     2536,
                     1166,
                     2536
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1166,
+                            2458,
+                            1362,
+                            2458,
+                            1362,
+                            2536,
+                            1166,
+                            2536
+                        ]
+                    }
                 ]
             },
             {
@@ -3691,6 +6470,21 @@
                     2535,
                     1362,
                     2536
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1362,
+                            2458,
+                            1718,
+                            2458,
+                            1718,
+                            2535,
+                            1362,
+                            2536
+                        ]
+                    }
                 ]
             },
             {
@@ -3705,6 +6499,21 @@
                     2534,
                     1718,
                     2535
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1718,
+                            2458,
+                            1996,
+                            2457,
+                            1996,
+                            2534,
+                            1718,
+                            2535
+                        ]
+                    }
                 ]
             },
             {
@@ -3719,6 +6528,21 @@
                     2533,
                     1996,
                     2534
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1996,
+                            2457,
+                            2425,
+                            2456,
+                            2425,
+                            2533,
+                            1996,
+                            2534
+                        ]
+                    }
                 ]
             },
             {
@@ -3733,6 +6557,21 @@
                     2614,
                     176,
                     2616
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            176,
+                            2539,
+                            396,
+                            2538,
+                            396,
+                            2614,
+                            176,
+                            2616
+                        ]
+                    }
                 ]
             },
             {
@@ -3747,6 +6586,21 @@
                     2613,
                     396,
                     2614
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            396,
+                            2538,
+                            832,
+                            2537,
+                            832,
+                            2613,
+                            396,
+                            2614
+                        ]
+                    }
                 ]
             },
             {
@@ -3761,6 +6615,21 @@
                     2613,
                     832,
                     2613
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            832,
+                            2537,
+                            988,
+                            2536,
+                            988,
+                            2613,
+                            832,
+                            2613
+                        ]
+                    }
                 ]
             },
             {
@@ -3775,6 +6644,21 @@
                     2612,
                     988,
                     2613
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            988,
+                            2536,
+                            1166,
+                            2536,
+                            1166,
+                            2612,
+                            988,
+                            2613
+                        ]
+                    }
                 ]
             },
             {
@@ -3789,6 +6673,21 @@
                     2612,
                     1166,
                     2612
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1166,
+                            2536,
+                            1362,
+                            2536,
+                            1363,
+                            2612,
+                            1166,
+                            2612
+                        ]
+                    }
                 ]
             },
             {
@@ -3803,6 +6702,21 @@
                     2611,
                     1363,
                     2612
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1362,
+                            2536,
+                            1718,
+                            2535,
+                            1718,
+                            2611,
+                            1363,
+                            2612
+                        ]
+                    }
                 ]
             },
             {
@@ -3817,6 +6731,21 @@
                     2611,
                     1718,
                     2611
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1718,
+                            2535,
+                            1996,
+                            2534,
+                            1996,
+                            2611,
+                            1718,
+                            2611
+                        ]
+                    }
                 ]
             },
             {
@@ -3831,6 +6760,21 @@
                     2610,
                     1996,
                     2611
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1996,
+                            2534,
+                            2425,
+                            2533,
+                            2425,
+                            2610,
+                            1996,
+                            2611
+                        ]
+                    }
                 ]
             },
             {
@@ -3845,6 +6789,21 @@
                     2688,
                     176,
                     2692
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            176,
+                            2616,
+                            1996,
+                            2611,
+                            1996,
+                            2688,
+                            176,
+                            2692
+                        ]
+                    }
                 ]
             },
             {
@@ -3859,6 +6818,21 @@
                     2687,
                     1996,
                     2688
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            1996,
+                            2611,
+                            2425,
+                            2610,
+                            2426,
+                            2687,
+                            1996,
+                            2688
+                        ]
+                    }
                 ]
             },
             {
@@ -3873,6 +6847,21 @@
                     2749,
                     176,
                     2754
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            176,
+                            2692,
+                            2426,
+                            2687,
+                            2426,
+                            2749,
+                            176,
+                            2754
+                        ]
+                    }
                 ]
             },
             {
@@ -3902,6 +6891,22 @@
                     2811,
                     516,
                     2812
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            565.0,
+                            2742.0,
+                            710.0,
+                            2742.0,
+                            710.0,
+                            2820.0,
+                            565.0,
+                            2820.0
+                        ],
+                        "value": "分红"
+                    }
                 ]
             },
             {
@@ -3916,6 +6921,22 @@
                     2811,
                     833,
                     2811
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            895.0,
+                            2755.0,
+                            1020.0,
+                            2749.0,
+                            1022.0,
+                            2809.0,
+                            897.0,
+                            2816.0
+                        ],
+                        "value": "风险"
+                    }
                 ]
             },
             {
@@ -3930,6 +6951,21 @@
                     2810,
                     1130,
                     2811
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            1130,
+                            2752,
+                            1430,
+                            2751,
+                            1430,
+                            2810,
+                            1130,
+                            2811
+                        ]
+                    }
                 ]
             },
             {
@@ -3944,6 +6980,21 @@
                     2809,
                     1430,
                     2810
+                ],
+                "words": [
+                    {
+                        "type": "HWChinese",
+                        "boundingbox": [
+                            1430,
+                            2751,
+                            1760,
+                            2750,
+                            1761,
+                            2809,
+                            1430,
+                            2810
+                        ]
+                    }
                 ]
             },
             {
@@ -3958,6 +7009,22 @@
                     2812,
                     176,
                     2814
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            170.0,
+                            2762.0,
+                            363.0,
+                            2762.0,
+                            363.0,
+                            2801.0,
+                            170.0,
+                            2801.0
+                        ],
+                        "key": "投资账户名称"
+                    }
                 ]
             },
             {
@@ -3987,6 +7054,21 @@
                     2870,
                     516,
                     2871
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            516,
+                            2812,
+                            833,
+                            2811,
+                            833,
+                            2870,
+                            516,
+                            2871
+                        ]
+                    }
                 ]
             },
             {
@@ -4001,6 +7083,22 @@
                     2870,
                     833,
                     2870
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            888.0,
+                            2823.0,
+                            1001.0,
+                            2816.0,
+                            1003.0,
+                            2868.0,
+                            889.0,
+                            2875.0
+                        ],
+                        "value": "1002"
+                    }
                 ]
             },
             {
@@ -4015,6 +7113,21 @@
                     2868,
                     1130,
                     2870
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1130,
+                            2811,
+                            1430,
+                            2810,
+                            1431,
+                            2868,
+                            1130,
+                            2870
+                        ]
+                    }
                 ]
             },
             {
@@ -4029,6 +7142,21 @@
                     2868,
                     1431,
                     2868
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1430,
+                            2810,
+                            1761,
+                            2809,
+                            1762,
+                            2868,
+                            1431,
+                            2868
+                        ]
+                    }
                 ]
             },
             {
@@ -4043,6 +7171,22 @@
                     2871,
                     176,
                     2873
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            170.0,
+                            2822.0,
+                            301.0,
+                            2822.0,
+                            301.0,
+                            2861.0,
+                            170.0,
+                            2861.0
+                        ],
+                        "key": "账户代码"
+                    }
                 ]
             },
             {
@@ -4057,6 +7201,22 @@
                     2930,
                     516,
                     2932
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            617.0,
+                            2878.0,
+                            697.0,
+                            2881.0,
+                            696.0,
+                            2931.0,
+                            616.0,
+                            2927.0
+                        ],
+                        "value": "50"
+                    }
                 ]
             },
             {
@@ -4071,6 +7231,22 @@
                     2930,
                     834,
                     2930
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            934.0,
+                            2887.0,
+                            1008.0,
+                            2879.0,
+                            1011.0,
+                            2924.0,
+                            938.0,
+                            2932.0
+                        ],
+                        "value": "50"
+                    }
                 ]
             },
             {
@@ -4085,6 +7261,21 @@
                     2929,
                     1130,
                     2930
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1130,
+                            2870,
+                            1431,
+                            2868,
+                            1430,
+                            2929,
+                            1130,
+                            2930
+                        ]
+                    }
                 ]
             },
             {
@@ -4099,6 +7290,21 @@
                     2928,
                     1430,
                     2929
+                ],
+                "words": [
+                    {
+                        "type": "alnum",
+                        "boundingbox": [
+                            1431,
+                            2868,
+                            1762,
+                            2868,
+                            1762,
+                            2928,
+                            1430,
+                            2929
+                        ]
+                    }
                 ]
             },
             {
@@ -4113,6 +7319,22 @@
                     2932,
                     176,
                     2933
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            174.0,
+                            2883.0,
+                            381.0,
+                            2883.0,
+                            381.0,
+                            2918.0,
+                            174.0,
+                            2918.0
+                        ],
+                        "key": "分配比例（%）"
+                    }
                 ]
             },
             {
@@ -4131,7 +7353,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2146,
                             2927,
                             2202,
@@ -4161,7 +7383,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2368,
                             2927,
                             2424,
@@ -4191,7 +7413,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1762,
                             2928,
                             1817,
@@ -4221,7 +7443,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2091,
                             2927,
                             2146,
@@ -4251,7 +7473,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2202,
                             2927,
                             2257,
@@ -4281,7 +7503,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2257,
                             2927,
                             2312,
@@ -4311,7 +7533,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2312,
                             2927,
                             2368,
@@ -4341,7 +7563,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1486,
                             2929,
                             1542,
@@ -4371,7 +7593,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1817,
                             2928,
                             1872,
@@ -4401,7 +7623,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1706,
                             2928,
                             1762,
@@ -4431,7 +7653,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1981,
                             2927,
                             2036,
@@ -4461,7 +7683,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2036,
                             2927,
                             2091,
@@ -4491,7 +7713,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1927,
                             2927,
                             1981,
@@ -4521,7 +7743,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1430,
                             2929,
                             1486,
@@ -4551,7 +7773,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1872,
                             2928,
                             1927,
@@ -4578,7 +7800,21 @@
                     177,
                     3027
                 ],
-                "words": []
+                "words": [
+                    {
+                        "boundingbox": [
+                            309,
+                            2933,
+                            731,
+                            2933,
+                            731,
+                            3022,
+                            2933,
+                            731
+                        ],
+                        "type": "HWChinese"
+                    }
+                ]
             },
             {
                 "row": 35,
@@ -4611,7 +7847,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1542,
                             2929,
                             1596,
@@ -4641,7 +7877,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1596,
                             2929,
                             1651,
@@ -4671,7 +7907,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1651,
                             2928,
                             1706,
@@ -4701,7 +7937,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1706,
                             3022,
                             1762,
@@ -4731,7 +7967,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1652,
                             3022,
                             1706,
@@ -4761,7 +7997,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2202,
                             3021,
                             2258,
@@ -4791,7 +8027,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1194,
                             3024,
                             1252,
@@ -4821,7 +8057,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1541,
                             3022,
                             1596,
@@ -4851,7 +8087,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1762,
                             3022,
                             1817,
@@ -4881,7 +8117,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1926,
                             3022,
                             1981,
@@ -4911,7 +8147,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1872,
                             3022,
                             1926,
@@ -4941,7 +8177,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2258,
                             3020,
                             2312,
@@ -4971,7 +8207,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2312,
                             3020,
                             2369,
@@ -5001,7 +8237,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             338,
                             3026,
                             398,
@@ -5031,7 +8267,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1372,
                             3023,
                             1430,
@@ -5061,7 +8297,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1596,
                             3022,
                             1652,
@@ -5091,7 +8327,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2369,
                             3020,
                             2424,
@@ -5121,7 +8357,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1817,
                             3022,
                             1872,
@@ -5151,7 +8387,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2146,
                             3021,
                             2202,
@@ -5181,7 +8417,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2092,
                             3021,
                             2146,
@@ -5207,6 +8443,21 @@
                     3135,
                     178,
                     3135
+                ],
+                "words": [
+                    {
+                        "type": "printedChinese",
+                        "boundingbox": [
+                            177,
+                            3027,
+                            338,
+                            3026,
+                            338,
+                            3135,
+                            178,
+                            3135
+                        ]
+                    }
                 ]
             },
             {
@@ -5225,7 +8476,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             516,
                             3026,
                             575,
@@ -5255,7 +8506,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1486,
                             3022,
                             1541,
@@ -5285,7 +8536,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1252,
                             3024,
                             1312,
@@ -5315,7 +8566,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1312,
                             3023,
                             1372,
@@ -5345,7 +8596,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1981,
                             3022,
                             2036,
@@ -5375,7 +8626,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             1430,
                             3022,
                             1486,
@@ -5405,7 +8656,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             398,
                             3026,
                             458,
@@ -5435,7 +8686,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             458,
                             3026,
                             516,
@@ -5480,7 +8731,7 @@
                 "words": [
                     {
                         "type": "digit",
-                        "boundingBox": [
+                        "boundingbox": [
                             2042,
                             3021,
                             2092,
